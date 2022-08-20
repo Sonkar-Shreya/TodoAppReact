@@ -1,0 +1,35 @@
+.mainBody{
+  background-color:lightblue;
+  height: 800px;
+  width:600px;
+  border: 2px solid rgb(29, 131, 126);
+
+  margin: 100px auto;
+
+}
+.header{
+  display: flex;
+}
+.inp{
+  /* background-color:lightseagreen; */
+  height:80px;
+  width:600px;
+  border: 2px solid rgb(29, 131, 126);
+  font-size: 30px;
+}
+.btn{
+  height:85px;
+  width:100px;
+  border: 2px solid rgb(29, 131, 126);
+
+  font-size:25px;
+}
+.btn:hover{
+  background-color: rgb(29, 131, 126);
+}
+.list{
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+}
+
